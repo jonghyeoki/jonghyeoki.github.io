@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cloud Researcher
+title: Jonghyeok Lee
 subtitle: Georgia Institute of Technology
 cover-img: /assets/img/jonghyeok_lee_cover.jpg
 ---
