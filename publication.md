@@ -19,4 +19,4 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### Conference Papers
 
-- **J. Lee**, C. Xu, and Y. Xie, _“Kernel-based Optimally Weighted Conformal Time-Series Prediction,”_ In Proc. of 2025 ICLR, 2025. [link](https://openreview.net/forum?id=oP7arLOWix)
+- **J. Lee**, C. Xu, and Y. Xie, “Kernel-based Optimally Weighted Conformal Time-Series Prediction,” In Proc. of 2025 ICLR, 2025. [link](https://openreview.net/forum?id=oP7arLOWix)
