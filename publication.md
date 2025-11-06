@@ -20,3 +20,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 ### Conference Papers
 
 - **J. Lee**, C. Xu, and Y. Xie, “Kernel-based Optimally Weighted Conformal Time-Series Prediction,” In Proc. of 2025 ICLR, 2025. [link](https://openreview.net/forum?id=oP7arLOWix)
+
+### Preprints
+
+- L. Zhu, **J. Lee**, and Y. Xie, "Beyond Maximum Likelihood: Variational Inequality Estimation for Generalized Linear Models," arXiv preprint, 2025. [arXiv:2511.03087](http://arxiv.org/abs/2511.03087)
