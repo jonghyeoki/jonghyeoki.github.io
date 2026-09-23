@@ -23,6 +23,6 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### Preprints
 
-- **J. Lee**, Y. Xie, Y. Park, J. Hindes, I. Schwartz, and C. Priebe, "Multi-rank Subspace Change-point Detection with Application in Monitoring Robotic Swarms," arXiv preprint, 2026. [arXiv:2506.18562](https://arxiv.org/pdf/2506.18562)
+- **J. Lee**, Y. Xie, Y. Park, J. Hindes, I. Schwartz, and C. Priebe, "Multi-rank Subspace Change-point Detection with Application in Monitoring Robotic Swarms," arXiv preprint, 2026. [arXiv:2506.18562](https://arxiv.org/pdf/2506.18562) (Accepted to _Sequential Analysis_)
 
 - L. Zhu, **J. Lee**, and Y. Xie, "Beyond Maximum Likelihood: Variational Inequality Estimation for Generalized Linear Models," arXiv preprint, 2025. [arXiv:2511.03087](http://arxiv.org/abs/2511.03087)
