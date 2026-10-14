@@ -27,6 +27,6 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### Preprints
 
-- **J. Lee**, Y. Xie, "Quickest Change-point Detection in Generalized Linear Models with Variational Estimation," arXiv preprint, 2026.
+- **J. Lee**, Y. Xie, "Quickest Change-point Detection in Generalized Linear Models with Variational Estimation," arXiv preprint, 2026. [arXiv:2610.16616](https://arxiv.org/abs/2610.16616)
 
 - J. Lee\*, **J. Lee**\*, and Y. Xie, "Conformal Prediction for Time Series with Deep Sequence Models," arXiv preprint, 2026. [arXiv:2610.02357](http://arxiv.org/abs/2610.02357)
